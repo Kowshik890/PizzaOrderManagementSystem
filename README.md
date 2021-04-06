@@ -38,7 +38,7 @@ b) manage ingredients (add, change, hide/show, remove and restock) <br/>
 &nbsp;&nbsp;• restocking performs by ordering from different available suppliers (hidden suppliers are not available) <br/>
 &nbsp;&nbsp;• it takes place immediately (suppliers have no delivery time) <br/>
 &nbsp;&nbsp;• base pizzas in all their different sizes are available in an infinite number, so there is no need to restock <br/>
-c) manage suppliers (add, change, hide/show and remove)Fakultät für Informatik Professur Datenverwaltungssysteme <br/>
+c) manage suppliers (add, change, hide/show and remove) <br/>
 3. The customer view includes the options to: <br/>
 a) list all available ingredients along with their name, regional provenance and price <br/>
 &nbsp;&nbsp;• ingredients that are hidden or run out of stock must not be shown <br/>
