@@ -51,3 +51,10 @@ c) 5 different suppliers with only partly overlapping assortment <br/>
 d) 10 different ingredients with various regional provenances and prices, whereof at least <br/>
 &nbsp;&nbsp;i. 3 have only 1 regional provenance and price <br/>
 &nbsp;&nbsp;ii. 5 have at least 3 different regional provenances and prices <br/>
+
+
+## Video Demonstration
+
+https://user-images.githubusercontent.com/41316490/166720063-19bc863b-ee86-4403-9ace-519b8f8e20ff.mp4
+
+
