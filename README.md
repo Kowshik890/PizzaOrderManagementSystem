@@ -1,5 +1,10 @@
 # PizzaOrderManagementSystem
 
+
+## Video Demonstration
+
+https://user-images.githubusercontent.com/41316490/166720063-19bc863b-ee86-4403-9ace-519b8f8e20ff.mp4
+
 ## Technology:
 
 ### Frontend:
@@ -53,8 +58,5 @@ d) 10 different ingredients with various regional provenances and prices, whereo
 &nbsp;&nbsp;ii. 5 have at least 3 different regional provenances and prices <br/>
 
 
-## Video Demonstration
-
-https://user-images.githubusercontent.com/41316490/166720063-19bc863b-ee86-4403-9ace-519b8f8e20ff.mp4
 
 
